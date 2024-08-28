@@ -77,7 +77,6 @@ def consulta():
 
     return render_template('consulta.html', pets=pets, criterio=criterio, valor=valor)
 
-
 # Rota para exibir o formulário de edição de pet
 @app.route('/editar/<int:id>', methods=['GET', 'POST'])
 def editar_pet(id):
