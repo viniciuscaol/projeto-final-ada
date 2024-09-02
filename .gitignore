@@ -1,8 +1,5 @@
 # Diretórios e arquivos do ambiente virtual Python
-<<<<<<< HEAD
 .venv/
-=======
->>>>>>> doc/readme
 venv/
 .env/
 
