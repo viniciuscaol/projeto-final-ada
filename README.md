@@ -22,6 +22,7 @@ Esta é uma aplicação web simples para cadastrar e consultar informações sob
   - `index.html`: Tela inicial para seleção de cadastro ou consulta.
   - `cadastro.html`: Página para o cadastro de novos pets.
   - `consulta.html`: Página para a consulta e visualização dos pets cadastrados.
+  - `editar.html`: Página para editar os pets cadastrados
 - `static/`: Diretório contendo arquivos estáticos como CSS e imagens.
   - `style.css`: Arquivo de estilização para as páginas HTML.
 
@@ -51,3 +52,5 @@ Em seguida, instale as dependências:
   python app.py
 ```
 A aplicação estará disponível em http://localhost:5000.
+
+---

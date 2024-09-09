@@ -33,6 +33,9 @@ dist/
 # Arquivos temporários
 *.tmp
 <<<<<<< HEAD
+*.swp
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 *.swp
 =======
@@ -41,3 +44,4 @@ dist/
 =======
 *.swp
 >>>>>>> doc/readme
+>>>>>>> origin/main
