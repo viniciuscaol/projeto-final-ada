@@ -53,6 +53,7 @@ Em seguida, instale as dependências:
 ```
 A aplicação estará disponível em http://localhost:5000.
 
+
 ## Contribuindo 🤝
 
 Por favor, leia o [CONTRIBUTING.md](./CONTRIBUTING.md) para detalhes sobre o processo de contribuição.
